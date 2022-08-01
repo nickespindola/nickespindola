@@ -5,7 +5,7 @@ Hey there 👋,
 - 👨‍💻 Languages and Tools:
 TS, HTML, CSS, JS, VSCode.
 - ✍️ Currently Studying:
-Angular, Git, GitHub, Npm.
+Angular, Git, GitHub, Npm, NodeJS.
 - 📫 How to reach me:
 
   <a href="https://www.linkedin.com/in/nicolas-espindola-555084187/"><img src="https://user-images.githubusercontent.com/92181835/161834674-440192c9-a668-4fb0-8b41-7ab4ecf23715.png" width="30"></a>
