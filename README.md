@@ -1,11 +1,11 @@
 Hey there 👋,
 
-- 🖥️ I’m new to programming. Attending the ProgramadorBR Full-Stack Developer course and the Santander Full-Stack Developer bootcamp.
-- 🌱 I’m currently looking for opportunities that allow me to develop and promote my skills on the web.
+- 🖥️ I'm a full stack development intern, currently completing my bachelor's degree in Business Administration.
+- 🌱 I’m always looking for opportunities that allow me to develop and promote my skills on the web.
 - 👨‍💻 Languages and Tools:
-TS, HTML, CSS, JS, VSCode.
+TS, HTML, CSS, JS, VSCode, Vue.JS, Node.JS, Npm.
 - ✍️ Currently Studying:
-Angular, Git, GitHub, Npm, NodeJS, MongoDB, Express.js.
+Angular, Git, GitHub, MongoDB, Express.js.
 - 📫 How to reach me:
 
   <a href="https://www.linkedin.com/in/nicolas-espindola-555084187/"><img src="https://user-images.githubusercontent.com/92181835/161834674-440192c9-a668-4fb0-8b41-7ab4ecf23715.png" width="30"></a>
