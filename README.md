@@ -3,7 +3,7 @@ Hey there 👋,
 - 🖥️ I'm a full stack development intern, currently completing my bachelor's degree in Business Administration.
 - 🌱 I’m always looking for opportunities that allow me to develop and promote my skills on the web.
 - 👨‍💻 Languages and Tools:
-TS, HTML, CSS, JS, Vue.JS, React, Node.JS, Git.
+TS, HTML, CSS, JS, Vue.JS, React, React Native, Node.JS, Git.
 - ✍️ Currently Studying:
 MongoDB, Express.js.
 - 📫 How to reach me:
