@@ -1,6 +1,6 @@
 Hey there 👋,
 
-- 🖥️ I'm a full stack development intern, currently completing my bachelor's degree in Business Administration.
+- 🖥️ I'm a full stack development intern, currently graduating in Software Analysis and Development. I also have a degree in business administration.
 - 🌱 I’m always looking for opportunities that allow me to develop and promote my skills on the web.
 - 👨‍💻 Languages and Tools:
 TS, HTML, CSS, JS, Vue.JS, React, React Native, Node.JS, Git.
